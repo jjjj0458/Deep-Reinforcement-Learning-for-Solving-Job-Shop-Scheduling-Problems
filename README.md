@@ -23,4 +23,4 @@ in static JSSP benchmark problem or in stochastic JSSP, our method can compete w
 other alternatives.*
 
 ---
-<img src="IMG/ASY.jpg" width = "350" height = "300" alt="图片名称" align=center /> <img src="IMG/QQ.jpg" width = "350" height = "300" alt="图片名称" align=center />
+<img src="IMG/QQ.jpg" width = "350" height = "300" alt="图片名称" align=center /> <img src="IMG/ASY.jpg" width = "350" height = "300" alt="图片名称" align=center /> 
