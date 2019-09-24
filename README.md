@@ -21,3 +21,6 @@ agent environment a nd different simple dispatching rules are considered as acti
 benchmark problem library OR library. The evaluation results indicate that no matter
 in static JSSP benchmark problem or in stochastic JSSP, our method can compete with
 other alternatives.*
+
+---
+<img src="IMG/ASY.jpg" width = "300" height = "300" alt="图片名称" align=center /> <img src="IMG/QQ.jpg" width = "300" height = "300" alt="图片名称" align=center />
